@@ -337,6 +337,17 @@ Interactive web-based analyzer for generating reports about glTF and GLB assets.
 - **Platform:** Web
 - **Best For:** Performance Analysis, Asset Reports, Model Statistics
 
+### ModelReady
+
+Browser-based checker for GLB files against Amazon's and Shopify's published 3D model requirements; runs client-side.
+
+- **Website:** https://modelready.click/
+- **GitHub:** https://github.com/modelready/modelready-validator
+- **License:** PolyForm Noncommercial 1.0.0 (source-available)
+- **Platform:** Web
+- **Pricing:** Free
+- **Best For:** Marketplace Readiness, E-commerce 3D, Pre-upload Checks
+
 ### Gestaltor Validation
 
 Validation and inspection tools for glTF and GLB assets.
