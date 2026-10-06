@@ -110,6 +110,17 @@ Browser-based 3D toolkit for viewing, inspecting, analyzing, and capturing 3D mo
 - **Formats:** GLB, glTF, OBJ, STL, PLY, FBX, ZIP
 - **Best For:** 3D model inspection, browser-based viewing, screenshots, and asset workflows
 
+### CADProps
+
+Browser-based viewer for static, uncompressed GLB geometry and approximate dimensions.
+
+- **Website:** [CADProps GLB Viewer](https://www.cadprops.com/tools/glb-viewer/)
+- **GitHub:** No public source repository
+- **License:** Proprietary
+- **Platform:** Web
+- **Pricing:** Free viewing without an account
+- **Best For:** Static model geometry and dimension inspection
+
 ### Don McCurdy glTF Viewer
 
 Lightweight online glTF viewer built with Three.js for inspecting models, materials, animations, and lighting.
